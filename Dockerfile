@@ -1,4 +1,3 @@
-FROM python
 FROM python:3.11.7-slim-bullseye 
 
 #COPY OF THE SOURCE CODE
