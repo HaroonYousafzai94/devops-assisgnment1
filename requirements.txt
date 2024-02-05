@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+
+uvicorn
+fastapi
+=======
+
+uvicorn
+fastapi
+>>>>>>> a0676271efa1b02b3d4aad7de7f1a5647288a51c
